@@ -6,5 +6,5 @@ Codewars profile:
 
 Languages I know:
 - [x] Java
-- [ ] C
-- [ ] C++
+- [x] C
+- [ ] C#
