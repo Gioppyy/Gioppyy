@@ -7,4 +7,6 @@ Codewars profile:
 Languages I know:
 - [x] Java
 - [x] C
+- [ ] Python
+- [ ] Php
 - [ ] C#
