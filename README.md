@@ -1,12 +1,5 @@
-Codewars profile:
-
-
+## Codewars profile:
 ![immagine](https://www.codewars.com/users/Gioppy/badges/large)
-
-
-Languages I know:
-- [x] Java
-- [x] C
-- [ ] Python
-- [ ] Php
-- [ ] C#
+- 🕐 I'm 17y
+- 👀 I'm interested at _Java / C / PhP / Js_
+- 🌱 I'm learning some new languages, like: C# and Python
