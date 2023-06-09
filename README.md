@@ -10,6 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-###My Stats:
+
+### My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gioppyy)](https://git.io/streak-stats)
 ![Giopyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gioppyy&show_icons=true&theme=transparent)
