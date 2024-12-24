@@ -10,5 +10,5 @@
 </div>
 
 ### My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gioppyy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gioppyy)](https://git.io/streak-stats)
 ![Giopyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gioppyy&show_icons=true&theme=transparent)
