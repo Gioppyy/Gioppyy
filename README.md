@@ -12,3 +12,9 @@
 ### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gioppyy)](https://git.io/streak-stats)
 ![Giopyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gioppyy&show_icons=true&theme=transparent)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
