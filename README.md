@@ -1,4 +1,6 @@
 # 💫 About Me:
+![Profile views](https://komarev.com/ghpvc/?username=Gioppyy&label=Profile%20views&color=0e75b6&style=flat)
+
 🔭 I’m currently working on various project <br>🌱 I’m currently learning cybersecurity's stuffs<br>🕐 I'm 19y
 
 ## 🌐 Socials:
