@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![Profile views](https://komarev.com/ghpvc/?username=Gioppyy&label=Profile%20views&color=0e75b6&style=flat)
 
-🔭 I’m currently working on various project <br>🌱 I’m currently learning cybersecurity's stuffs<br>🕐 I'm 19y
+🔭 I’m currently working on various project <br>🌱 I’m currently learning cybersecurity's stuffs<br>🕐 I'm 20y
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/501840328240922624) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michele._.cava) 
